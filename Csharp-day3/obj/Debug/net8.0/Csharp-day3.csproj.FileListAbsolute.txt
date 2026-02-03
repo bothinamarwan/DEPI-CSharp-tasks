@@ -1,0 +1,14 @@
+D:\downloads\depi\cSharp\tasks\Csharp-day3\bin\Debug\net8.0\Csharp-day3.exe
+D:\downloads\depi\cSharp\tasks\Csharp-day3\bin\Debug\net8.0\Csharp-day3.deps.json
+D:\downloads\depi\cSharp\tasks\Csharp-day3\bin\Debug\net8.0\Csharp-day3.runtimeconfig.json
+D:\downloads\depi\cSharp\tasks\Csharp-day3\bin\Debug\net8.0\Csharp-day3.dll
+D:\downloads\depi\cSharp\tasks\Csharp-day3\bin\Debug\net8.0\Csharp-day3.pdb
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.AssemblyInfoInputs.cache
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.AssemblyInfo.cs
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.csproj.CoreCompileInputs.cache
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.dll
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\refint\Csharp-day3.dll
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.pdb
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\Csharp-day3.genruntimeconfig.cache
+D:\downloads\depi\cSharp\tasks\Csharp-day3\obj\Debug\net8.0\ref\Csharp-day3.dll

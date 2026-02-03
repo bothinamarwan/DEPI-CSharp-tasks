@@ -75,7 +75,7 @@ namespace Csharp_day3
             myClass obj2 = obj1;
             obj2.value = 6;
             Console.WriteLine(obj1.value); //6
-                                           //Question: What is the significance of reference equality in .NET? 
+            //Question: What is the significance of reference equality in .NET? 
             /*
              Reference equality means multiple references point to the same object in memory,
             so changes through one reference affect all others.

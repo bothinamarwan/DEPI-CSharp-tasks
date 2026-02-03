@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Csharp-day3/1.0.0": {
+        "runtime": {
+          "Csharp-day3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp-day3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
